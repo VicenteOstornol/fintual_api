@@ -1,0 +1,62 @@
+[
+  {
+    "risky_norris": 0.6,
+    "moderate_pitt": 0.2,
+    "conservative_clooney": 0.1,
+    "very_conservative_streep": 0.1
+  },
+  {
+    "risky_norris": 0.1,
+    "moderate_pitt": 0.2,
+    "conservative_clooney": 0.3,
+    "very_conservative_streep": 0.4
+  },
+  {
+    "risky_norris": 0.4,
+    "moderate_pitt": 0.3,
+    "conservative_clooney": 0.2,
+    "very_conservative_streep": 0.1
+  },
+  {
+    "risky_norris": 0,
+    "moderate_pitt": 1,
+    "conservative_clooney": 0,
+    "very_conservative_streep": 0
+  },
+  {
+    "risky_norris": 0.8,
+    "moderate_pitt": 0.1,
+    "conservative_clooney": 0.1,
+    "very_conservative_streep": 0
+  },
+  {
+    "risky_norris": 0.1,
+    "moderate_pitt": 0.1,
+    "conservative_clooney": 0.1,
+    "very_conservative_streep": 0.7
+  },
+  {
+    "risky_norris": 0.4,
+    "moderate_pitt": 0.3,
+    "conservative_clooney": 0.1,
+    "very_conservative_streep": 0.2
+  },
+  {
+    "risky_norris": 0.25,
+    "moderate_pitt": 0.25,
+    "conservative_clooney": 0.25,
+    "very_conservative_streep": 0.25
+  },
+  {
+    "risky_norris": 0,
+    "moderate_pitt": 0.5,
+    "conservative_clooney": 0.5,
+    "very_conservative_streep": 0
+  },
+  {
+    "risky_norris": 0.5,
+    "moderate_pitt": 0,
+    "conservative_clooney": 0,
+    "very_conservative_streep": 0.5
+  }
+]
